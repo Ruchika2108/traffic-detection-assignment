@@ -44,14 +44,8 @@ traffic-detection-assignment/
 ├── Traffic_Vehicle_Detectionnn.ipynb
 ├── data/
 │   └── test_images/
-│       ├── test1.jpg
-│       ├── test2.jpg
-│       └── test3.jpg
 ├── output/
 │   └── processed_images/
-│       ├── sample1.jpg
-│       ├── sample2.jpg
-│       └── sample3.jpg
 │   └── vehicle_counts_summary.csv
 └── docs/
     ├── technical_report.pdf
