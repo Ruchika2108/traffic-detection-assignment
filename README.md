@@ -111,11 +111,9 @@ To launch the Gradio interface, run the final cell.
 
 ---
 
-## 📊 Sample Results
+## Test Images
 
-<img src="data/test_images/test1.jpg.jpg" width="300"/>  
-<img src="data/test_images/test2.jpg.jpg" width="300"/>  
-<img src="data/test_images/test3.jpg.jpg" width="300"/>
+<img src="data/test_images/test1.jpg.jpg" width="300"/>  <img src="data/test_images/test2.jpg.jpg" width="300"/>  <img src="data/test_images/test3.jpg.jpg" width="300"/>
 
 ✅ **Output Samples**
 <img src="output/processed_images/sample1.jpg" width="300"/>  
