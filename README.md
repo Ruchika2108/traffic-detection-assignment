@@ -113,13 +113,16 @@ To launch the Gradio interface, run the final cell.
 
 ## 📊 Sample Results
 
-**🖼️ Test Images:**
+🖼️ **Test Images**
+<img src="data/test_images/test1.jpg" width="300"/>  
+<img src="data/test_images/test2.jpg" width="300"/>  
+<img src="data/test_images/test3.jpg" width="300"/>
 
-* `test1.jpg`, `test2.jpg`, `test3.jpg` in `data/test_images/`
+✅ **Output Samples**
+<img src="output/processed_images/sample1.jpg" width="300"/>  
+<img src="output/processed_images/sample2.jpg" width="300"/>  
+<img src="output/processed_images/sample3.jpg" width="300"/>
 
-**✅ Output Samples:**
-
-* `sample1.jpg`, `sample2.jpg`, `sample3.jpg` in `output/processed_images/`
 
 **📄 CSV Preview:**
 
