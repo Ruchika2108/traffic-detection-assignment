@@ -1,6 +1,6 @@
 # 🚦 Traffic Vehicle Detection System
 
-A computer vision-based project using **YOLOv8** to automatically detect, classify, and count vehicles (cars, trucks, motorcycles) in traffic images. Built as part of an internship assessment, this project focuses on detection accuracy, clean outputs, and a user-friendly interface.
+A computer vision-based project using **YOLOv8** to automatically detect, classify, and count vehicles (cars, trucks, motorcycles) in traffic images.This project focuses on detection accuracy, clean outputs, and a user-friendly interface.
 
 ---
 
